@@ -1,0 +1,256 @@
+Documentação (mobile) – LUPA
+
+1.  Documentação - Tela de Login
+
+
+1.1 Descrição Geral: Esta é a tela de login do projeto, onde os usuários podem acessar a aplicação inserindo suas credenciais.
+
+1.2  Elementos da Tela
+
+
+Campo de CPF ou Login: Um campo de texto onde o usuário deve inserir seu CPF ou nome de login para acessar a aplicação.
+Campo de Senha: Um campo de senha onde o usuário deve digitar sua senha. Há um ícone de "olho" que permite ao usuário visualizar ou ocultar o conteúdo digitado.
+Link de Recuperação de Senha: Um link clicável que redireciona o usuário para uma página onde ele pode recuperar sua senha, caso tenha esquecido.
+Botão "Entrar": Um botão azul que, ao ser clicado, permite ao usuário fazer login na aplicação, desde que tenha inserido as credenciais corretas.
+Link "Cadastrar": Um link que leva o usuário para a página de cadastro, caso ele ainda não tenha uma conta no sistema.
+1.3  Funcionalidade:
+
+
+Login: O usuário insere seu CPF ou Login e sua senha nos campos apropriados e, em seguida, clicar no botão "Entrar" para acessar o sistema.
+Recuperação de Senha: Caso o usuário tenha esquecido sua senha, ele pode clicar no link "Recuperar senha" para iniciar o processo de recuperação.
+Cadastro de Novo Usuário: Caso o usuário não tenha uma conta, ele pode clicar no link "Cadastrar" para criar uma nova conta no sistema.
+Ocultar senha: Funcionalidade perfeita para os usuários esquecidos.
+
+1.4  Layout:
+Design Simples e Intuitivo: A tela possui um layout simples e direto, com botões e campos de fácil acesso e identificação.
+
+
+Cores Predominantes: O fundo é predominantemente preto, com elementos de texto em branco e azul. O botão de "Entrar" é azul, destacando-se do fundo e chamando a atenção do usuário.
+
+
+
+2. Documentação - Tela de cadastro
+
+2.1  Descrição Geral: Tela destinada ao cadastro de novos usuários, solicitando como vai ser login (ou CPF), criação e confirmação de senha .
+
+2.2  Elementos Visuais:
+Cores predominantes:
+Preto (no cabeçalho e bordas);
+Branco (como fundo principal);
+Azul claro (nos botões e ícones de destaque).
+Disposição dos Elementos:
+Header: Contém logotipo centralizado no topo com ícone de lupa e símbolo de um hospital ao centro, associado ao título do site/app LUPA, logo abaixo o título da tela “Cadastro”.
+  Formulário de Cadastro:
+Login ou repita o CPF: Campo de texto com placeholder "Login" posicionado logo abaixo da legenda.
+Senha: Campo de senha com placeholder "Senha", e logo abaixo outro campo usado para confirmar a senha.
+Botão de Ação: Botão com a legenda "Entrar", em destaque na cor azul claro e bordas arredondadas, posicionado após os campos de entrada de dados.
+
+2.3  Interatividade:
+Botão "Entrar": Apresenta formato arredondado e é destacado pelo contraste de cor azul, indicando ser o principal ponto de ação do usuário na tela.
+Indicador de Página: Na parte inferior dos campos de entrada, há dois pontos, sendo um preenchido (um indicador de que esta é a primeira de duas telas ou etapas no processo de cadastro).
+3. Elementos das telas de tutorial:
+
+3.1  Cabeçalho
+Menu: Ícone de 3 barras no canto superior esquerdo que pode ser usado para acessar mais opções ou funcionalidades do aplicativo.
+
+
+Avatar/Perfil: Ícone no centro superior que provavelmente indica a seção de perfil do usuário ou uma área onde ele pode gerenciar suas informações.
+
+
+Barra de Busca: Localizada logo abaixo do cabeçalho, permite ao usuário pesquisar por uma UPA específica.
+
+
+Balão de Apresentação: Um balão de diálogo em azul claro que contém o seguinte texto: "Olá, me chamo (nome), vou fazer uma breve apresentação do seu localizador de UPA. Vamos nessa?"
+
+
+Personagem Ilustrado: Uma figura ilustrada de um homem de aparência amigável com as roupas no tom do projeto. O assistente virtual guiará o usuário pela apresentação.
+
+
+Ícones de Especialidades: Abaixo do balão de diálogo, há ícones que parecem representar diferentes especialidades médicas ou áreas de atendimento, como "Pediatra", "Ortopedista", etc. Estes ícones são interativos e permitem ao usuário navegar para a seção correspondente.
+
+
+Navegação: Botões "Voltar" e "Avançar": Localizados no canto inferior direito da tela, permitem ao usuário navegar entre as etapas da apresentação ou tutorial.
+3.2  Funcionalidade:
+
+
+Tutorial Guiado: A tela sugere que o usuário está prestes a passar por uma introdução guiada sobre como utilizar o localizador de UPA. O assistente virtual representado pelo personagem ilustrado vai conduzir o usuário por essa apresentação, enquanto os botões de navegação permitem que o usuário avance ou volte conforme necessário.
+
+
+Usuário-alvo: O design e a funcionalidade são voltados para usuários que possam estar utilizando o aplicativo pela primeira vez e precisam de orientação para localizar e acessar as funcionalidades de uma UPA.
+
+
+Usabilidade: O design é intuitivo, com ícones claros e botões de navegação bem posicionados. A adição de um assistente virtual torna o processo de aprendizagem mais interativo e amigável.
+
+
+
+4.   Elementos da tela de inicial: 
+
+4.1  Componentes da Interface:
+
+
+Barra Superior: Localizada na parte superior da tela, apresenta o logotipo do aplicativo à esquerda, e um ícone de perfil de usuário no canto superior direito. Um campo de pesquisa com o texto sugestivo "Pesquise a UPA" possibilita a busca por unidades de pronto atendimento.
+
+
+Pergunta Central: A frase: "O que você está precisando?" É exibida de maneira centralizada, incentivando o usuário a selecionar a especialidade médica de que necessita.
+
+
+Botões de Especialidades Médicas: A interface apresenta cinco ícones dispostos em formato de grade, cada um representando uma especialidade médica. Os ícones têm fundo preto com bordas arredondadas e apresentam texto descritivo em azul, acompanhado de ícones representativos:
+
+
+Pediatria: ícone de um carrinho de bebê.
+
+
+Cardiologista: ícone de um coração.
+
+
+Odontologia: ícone de um dente.
+
+
+Ortopedista: ícone de um pé.
+
+
+Outros: ícone com três pontos, indicando mais opções além das exibidas.
+
+4.2   Rodapé: Um ícone de ajuda, simbolizado por um círculo azul contendo   um ponto de interrogação, está localizado no canto inferior esquerdo da tela, oferecendo suporte ou acesso a mais informações.
+
+
+4.3   Design da Interface: O design do aplicativo adota uma abordagem minimalista, com uso predominante de tons neutros, como o branco no fundo da tela, que contrasta com os botões em preto e azul. O uso de ícones simples e intuitivos facilita a navegação, permitindo que o usuário identifique rapidamente as especialidades disponíveis.
+	
+
+5. Documentação - Menu Lateral
+
+5.1  Design e Layout:
+
+ A tela mostra um menu lateral de um aplicativo móvel, utilizando um esquema de cores em azul e branco que cria uma interface limpa e moderna.
+
+ Os ícones são minimalistas e claramente reconhecíveis, favorecendo uma experiência de usuário intuitiva.
+
+5.2  Usabilidade:
+
+ O menu contém opções fundamentais como "Carteira", "Favoritos", "Configuração", e "Ajuda", indicando uma boa organização das funções do aplicativo.
+
+ A presença de "Nome e sobrenome" no topo sugere um espaço dedicado ao perfil do usuário, promovendo uma interação mais personalizada com o aplicativo.
+
+5.3  Acessibilidade: 
+ Os elementos visuais, como ícones e textos, parecem ser de tamanho adequado e possuem bom contraste, facilitando a leitura e o acesso.
+Seria importante verificar se existem recursos para usuários com deficiências visuais, como compatibilidade com leitores de tela e opções de alto contraste.
+
+5.4  Funcionalidades Visíveis:
+
+Parte da interface exibe categorias como "Cardiologista" e "Ortopedista", sugerindo que o aplicativo pode ser utilizado para serviços na área da saúde ou para agendar consultas médicas.
+
+
+
+
+
+
+
+
+
+Funcionalidade- Carteira
+
+Descrição da área:
+“Aqui você acompanha o status da entrega de seus documentos. Importante: O envio é opcional, mas pode ajudar o usuário com a ausência de documento em alguma ocasião”.
+Botão de ajuda (ícone com interrogação):
+Botão que mostra uma descrição da área em que se encontra, ou caso precise, redireciona o usuário para o tutorial.
+Identidade:
+Área onde ficará a foto e os dados do RG do usuário para casos de emergência.
+Carteira do SUS:
+Área onde ficará a foto e os dados da Carteira do SUS do usuário para casos de emergência.
+Certidão de Nascimento:
+Área onde ficará a foto e os dados da cópia autenticada da Certidão de Nascimento do usuário para casos de emergência.
+
+Usabilidade:
+Um elemento indispensável para um aplicativo que lida com casos de emergências e de praticidade. Área opcional, porém de extrema utilidade, a qual pode salvar o seu tempo e a sua vida.
+
+
+
+
+
+
+
+
+
+Funcionalidade- Favoritos
+
+Descrição da área:
+“Aqui você encontrará as UPA’s que você deixar como favoritas”.
+
+Botão de ajuda (ícone com interrogação):
+Botão que mostra uma descrição da área em que se encontra, ou caso precise, redireciona o usuário para o tutorial.
+
+Descrição das caixas de seleção das UPA’S salvas como favoritas:
+Foto usada via site externo (Google) do local;
+Redireciona você para a página da UPA cadastrada em nosso aplicativo;
+Pequena descrição da UPA, logo abaixo na caixa de seleção.
+
+Usabilidade:
+Área para oferecer ainda mais praticidade. Usado para situações em que provavelmente você já sabe o local, mas gostaria de informações adicionais. Aqui o usuário encontrará aquelas salvas como favoritas, ou aquelas detectadas pelo sistema como “pesquisada com frequência”. 
+
+
+
+
+
+
+
+
+
+
+
+Funcionalidade - Configurações
+
+Configuração de Conta:
+Local onde o usuário poderá alterar: foto de perfil, a senha sem necessidade de ir para a área de login, o idioma de preferência entre outras opções adicionais.
+
+Mudar Nome:
+Para que o nome seja mudado, o usuário precisará entrar em contato com o administrador para constatar o motivo da troca, por questões de segurança;
+Saiba mais: link que redireciona para uma área com informações, termos e normas.
+
+Notificação:
+Seção onde o usuário poderá personalizar as configurações que chegará em seu e-mail, e em seu celular na barra de notificações.
+
+Sobre:
+Parte em que o usuário poderá ver informações sobre o aplicativo, como:
+Equipe de desenvolvimento, Parcerias, Instituições ligadas, Versão do aplicativo, etc.
+
+Usabilidade:
+Área usada para a personalização do perfil, dos dados pessoais e para atender às preferências de cada usuário.
+
+
+
+
+
+
+
+6. Documentação - Mapa
+
+
+6.3 Campo de Pesquisa:
+
+
+Há um campo de pesquisa no topo onde o usuário pode inserir termos de busca, possivelmente para encontrar unidades de saúde, como hospitais ou clínicas.
+
+
+6.4 Sugestões de Busca:
+
+
+Abaixo do campo de pesquisa, há uma lista de sugestões, indicando várias unidades, como "UPA 02", "UPA 03", etc. Isso sugere que o aplicativo está programado para mostrar resultados relevantes conforme o usuário digita.
+
+
+6.5 Mapa Interativo:
+
+
+O fundo da interface é um mapa, com detalhes visíveis como ruas e um marcador de localização (indicador azul), que provavelmente representa a posição atual do usuário ou o local que está sendo visualizado.
+
+
+6.6 Funcionalidade Útil:
+
+
+Essa funcionalidade é extremamente útil em situações de emergência ou quando um usuário precisa de cuidados médicos, permitindo que encontre rapidamente a unidade de saúde mais próxima.
+
+
+6.7 Usabilidade:
+
+
+O design parece ser intuitivo, facilitando a navegação e a busca. O uso de ícones e um teclado virtual torna a interação mais simples.
+
