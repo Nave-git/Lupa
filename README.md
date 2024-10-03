@@ -4,7 +4,7 @@ Rafael Lima, --
 
 Victor Guilherme, --
 
-João Victor Lima, --
+João Victor Lima, Linkedin: https://www.linkedin.com/in/jo%C3%A3o-victor-lima-freitas
 
 Bruno Lucas, --
 
