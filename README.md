@@ -30,6 +30,8 @@ Vinícius Souza --
   
 - Dashboard das avaliações positivas e negativas de cada upa feitas pelos usuários.
 
+Apresentar o <strong>petDoe<strong/><br>
+Responsável: Ana
 
 # Tecnologias Utilizadas:
 
