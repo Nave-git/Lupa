@@ -1,6 +1,6 @@
 # Equipe:
 
-Rafael Lima, -- <a href="https://www.linkedin.com/in/rlima01/">
+Rafael Lima, <a href="https://www.linkedin.com/in/rlima01/">
     <img src="https://img.icons8.com/?size=512&id=13930&format=png" style="width: 25px; height: 25px;" class="media-object img-responsive img-thumbnail">
 </a>
 
