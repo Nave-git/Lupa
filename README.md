@@ -1,14 +1,14 @@
 # Equipe:
 
 Rafael Lima, -- <a href="https://www.linkedin.com/in/rlima01/">
-    <img src="https://img.icons8.com/?size=512&id=13930&format=png" style="width: 50px; height: 50px;" class="media-object img-responsive img-thumbnail">
+    <img src="https://img.icons8.com/?size=512&id=13930&format=png" style="width: 25px; height: 25px;" class="media-object img-responsive img-thumbnail">
 </a>
 
 
 Victor Guilherme, --
 
 João Victor Lima, <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-lima-freitas/">
-    <img src="https://img.icons8.com/?size=512&id=13930&format=png" style="width: 50px; height: 50px;" class="media-object img-responsive img-thumbnail">
+    <img src="https://img.icons8.com/?size=512&id=13930&format=png" style="width: 25px; height: 25px;" class="media-object img-responsive img-thumbnail">
 </a>
 
 Bruno Lucas, --
