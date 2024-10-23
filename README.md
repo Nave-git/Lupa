@@ -30,7 +30,8 @@ Vinícius Souza, <a href ="https://www.linkedin.com/in/vin%C3%ADcius-souza-feito
 
 É um sistema em desenvolvimento onde visa facilitar a localização de Unidades de Pronto Atendimento (UPAs) mais próximas do usuário, permitindo a visualização das especialidades atendidas em cada unidade, com isso, o nosso projeto visa melhorar o poder na tomada de decisão e a eficiência no acesso a serviços de saúde pública além de proporcionar uma avaliação mais transparente das unidades de atendimento.
 
-Link do projeto:  <a href ="https://projeto.smarth.com.br/">  <img src="![L-removebg-preview 1](https://github.com/user-attachments/assets/751fbaa3-a448-4158-975e-576d02998303)
+Link do projeto: <a href="https://projeto.smarth.com.br/">
+    <img src="![L-removebg-preview 1](https://github.com/user-attachments/assets/9bf52d1f-e764-4522-9a43-433b291404fe)
 ">
 
 # Principais Funcionalidades:
